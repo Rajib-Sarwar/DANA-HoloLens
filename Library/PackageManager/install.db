@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "a4cc3ecd3f67",
+        "mtime": 1654273265877,
+        "size": 10611639,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.4.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "d7fd263e360f",
+        "mtime": 1654272778700,
+        "size": 55085288,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "0c9d84925720",
+        "mtime": 1654272773239,
+        "size": 1129391,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.figmabridge": {
+      "tarball": {
+        "hash": "b20dced74a18",
+        "mtime": 1654272771804,
+        "size": 796147,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.figmabridge-0.1.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "251fc689f36f",
+        "mtime": 1654272774851,
+        "size": 11551936,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.gpustats": {
+      "tarball": {
+        "hash": "c5bca7da8201",
+        "mtime": 1654272772079,
+        "size": 136802,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.gpustats-1.0.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.micstream": {
+      "tarball": {
+        "hash": "10e55ce31d3e",
+        "mtime": 1654272772261,
+        "size": 343203,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.micstream-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.planefinding": {
+      "tarball": {
+        "hash": "ba1c62ce75c5",
+        "mtime": 1654272772092,
+        "size": 226297,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.planefinding-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "fcc2d8083af4",
+        "mtime": 1654272772830,
+        "size": 5302736,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "a9617008067f",
+        "mtime": 1654272771358,
+        "size": 18010,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.8.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "784ac11e28c0",
+        "mtime": 1654272773826,
+        "size": 2107315,
+        "localPath": "C:\\Users\\Littman Library\\Desktop\\DANA GIT UPDATED\\DANA\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.0.tgz"
+      }
+    }
+  }
+}
